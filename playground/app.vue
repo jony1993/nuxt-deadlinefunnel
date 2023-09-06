@@ -1,6 +1,6 @@
 <template>
   <div>
-    Nuxt module playground!
+    Check the network tab if deadline funnel script was loaded
   </div>
 </template>
 
