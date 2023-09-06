@@ -84,3 +84,5 @@ npm run release
 [npm-downloads-href]: https://npmjs.com/package/nuxt-deadlinefunnel
 [license-src]: https://img.shields.io/npm/l/nuxt-deadlinefunnel.svg
 [license-href]: https://npmjs.com/package/nuxt-deadlinefunnel
+[nuxt-src]: https://img.shields.io/badge/Nuxt-18181B?logo=nuxt.js
+[nuxt-href]: https://nuxt.com
