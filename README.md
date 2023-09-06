@@ -1,5 +1,7 @@
 # Nuxt Deadline Funnel
 
+[![npm version][npm-version-src]][npm-version-href]
+[![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
@@ -69,3 +71,16 @@ npm run test:watch
 # Release new version
 npm run release
 ```
+
+## License
+
+[MIT License](./LICENSE)
+
+<!-- Badges -->
+
+[npm-version-src]: https://img.shields.io/npm/v/nuxt-deadlinefunnel/latest.svg
+[npm-version-href]: https://npmjs.com/package/nuxt-deadlinefunnel
+[npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-deadlinefunnel.svg
+[npm-downloads-href]: https://npmjs.com/package/nuxt-deadlinefunnel
+[license-src]: https://img.shields.io/npm/l/nuxt-deadlinefunnel.svg
+[license-href]: https://npmjs.com/package/nuxt-deadlinefunnel
