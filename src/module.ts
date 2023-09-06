@@ -19,7 +19,7 @@ export default defineNuxtModule<ModuleOptions>({
     configKey: 'deadlinefunnel'
   },
   // Default configuration options of the Nuxt module
-  setup (options, nuxt) {
+  setup (options: any, nuxt: any) {
     const resolver = createResolver(import.meta.url)
 
     // Make sure user id hash is set
