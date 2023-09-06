@@ -32,7 +32,11 @@ export default defineNuxtConfig({
 })
 ```
 
-That's it! You can now use nuxt-deadlinefunnel in your Nuxt app ✨
+Then, you must register your deadlinefunnel `DEADLINEFUNNEL_USER_ID_HASH` in your environment variables.
+
+And Voilà!
+
+You can easily check that the script is correctly injected by inspecting your page on your browser. Note that nothing is injected if the key is missing!
 
 ## Development
 
