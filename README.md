@@ -32,7 +32,13 @@ export default defineNuxtConfig({
 })
 ```
 
-Then, you must register your deadlinefunnel `DEADLINEFUNNEL_USER_ID_HASH` in your environment variables.
+Then, you must add the userIdHash to the module options:
+
+```js
+deadlinefunnel: {
+  userIdHash: 'ey...'
+}
+```
 
 And Voilà!
 
