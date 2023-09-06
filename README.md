@@ -1,12 +1,3 @@
-<!--
-Get your module up and running quickly.
-
-Find and replace all on all files (CMD+SHIFT+F):
-- Name: My Module
-- Package name: my-module
-- Description: My new Nuxt module
--->
-
 # My Module
 
 [![npm version][npm-version-src]][npm-version-href]
@@ -14,45 +5,36 @@ Find and replace all on all files (CMD+SHIFT+F):
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-My new Nuxt module for doing amazing things.
+Nuxt 3 Module to integrate Deadline Funnel to your Nuxt app
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
-<!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/my-module?file=playground%2Fapp.vue) -->
-<!-- - [📖 &nbsp;Documentation](https://example.com) -->
-
-## Features
-
-<!-- Highlight some of the features your module provide here -->
-- ⛰ &nbsp;Foo
-- 🚠 &nbsp;Bar
-- 🌲 &nbsp;Baz
 
 ## Quick Setup
 
-1. Add `my-module` dependency to your project
+1. Add `nuxt-deadlinefunnel` dependency to your project
 
 ```bash
 # Using pnpm
-pnpm add -D my-module
+pnpm add -D nuxt-deadlinefunnel
 
 # Using yarn
-yarn add --dev my-module
+yarn add --dev nuxt-deadlinefunnel
 
 # Using npm
-npm install --save-dev my-module
+npm install --save-dev nuxt-deadlinefunnel
 ```
 
-2. Add `my-module` to the `modules` section of `nuxt.config.ts`
+2. Add `nuxt-deadlinefunnel` to the `modules` section of `nuxt.config.ts`
 
 ```js
 export default defineNuxtConfig({
   modules: [
-    'my-module'
+    'nuxt-deadlinefunnel'
   ]
 })
 ```
 
-That's it! You can now use My Module in your Nuxt app ✨
+That's it! You can now use nuxt-deadlinefunnel in your Nuxt app ✨
 
 ## Development
 
