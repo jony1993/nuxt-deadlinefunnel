@@ -1,6 +1,6 @@
 {
   "name": "nuxt-deadlinefunnel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nuxt 3 Module to integrate Deadline Funnel to your Nuxt app",
   "repository": "jony1993/nuxt-deadlinefunnel",
   "license": "MIT",
